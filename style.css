@@ -230,7 +230,10 @@ html {
   }
   .menu li.contact a:after,
   .menu li.sign-gb a:after,
-  .menu li.splash a:after {
+  .menu li.splash a:after,
+  .menu li.about a:after,
+  .menu li.esperlol a:after,
+  .menu li.aboutesper a:after {
       content: "";
       display: inline-block;
       background-repeat: no-repeat;
@@ -251,6 +254,16 @@ html {
       width: 149px;
       height: 65px;
   }
+  .menu li.about a:after {
+    background-image: url('Assets/question-gif.gif');
+    width: 50px;
+    height: 50px;
+  }
+  .menu li.esperlol a:after {
+    background-image: url('Assets/oops.gif');
+    width: 50px;
+    height: 50px;
+  }   
   
   .counter {
       font-family: "Comic Sans MS", "ChalkboardSE-Light", cursive, sans-serif;
@@ -507,3 +520,13 @@ html {
       font-style: normal;
   
   }
+
+  #espermain {
+    text-align: center;
+  }
+
+  .menu li.aboutesper a:after {
+    background-image: url('Assets/question-gif.gif');
+    width: 50px;
+    height: 50px;
+}
