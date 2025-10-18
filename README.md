@@ -1,5 +1,5 @@
 
-# spiritsandsuch - About
+# Spirits and Such - About
 
   
 
