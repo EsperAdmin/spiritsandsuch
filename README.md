@@ -1,5 +1,5 @@
 
-# spiritsandsuch
+# spiritsandsuch - About
 
   
 
@@ -8,7 +8,7 @@ A recreation of the original spiritsandsuch.com website, preserved from the Wayb
 **Spirits and Such** is inspired by the fictional business from the popular anime and manga series *Mob Psycho 100*. In the series, "Spirits and Such Consultation Office" is run by the character Arataka Reigen, a self-proclaimed psychic who offers exorcism and spiritual consultation services. The original website captured the quirky, mysterious atmosphere of this fictional establishment.
 
 
-## About
+## History
 
   
 
